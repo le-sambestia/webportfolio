@@ -3,8 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-# Welcome
+<h1>{{page.title}}</h1>
 
-**Hello world**, this is my first Jekyll blog post.
+{% include footer.html %}
 
-I hope you like it!
